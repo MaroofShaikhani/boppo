@@ -1,0 +1,35 @@
+
+.nav{
+    width: 80%;
+    height: 80px;
+    background-color:white;
+    /* margin-left: 100px; */
+     transform: translate(100px);
+  position: absolute;
+  top: 80px;
+z-index: 12;
+   
+}
+.B2{
+    display: flex;
+/* margin-top: 45px; */
+margin-left: 20px;
+}
+.B2 h6{
+    display: inline;
+    height: 21px;
+    margin-left: 5px;
+    margin-top: 20px;
+    font-size: 17px;
+    color: #84e0c8;
+    background: rgb(243, 231, 231);
+}
+.B2 h6 :hover{
+    background: black;
+}
+
+.clear a{
+  margin-left: 880px;
+  display: flex;
+  /* margin-top: 40px; */
+}
